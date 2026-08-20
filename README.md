@@ -32,14 +32,14 @@ contribuir a una gestión más eficiente del entorno.
 En esta carpeta se encuentra el documento de Word con la información,
 descripción, diseño y desarrollo del proyecto.
 
-[Ver documento del proyecto](./Documento/Trabajo_IoT.docx)
+[Ver documento del proyecto](./Documento/Informe_Tecnico.docx)
 
 ### 🌐 Simulación en Cisco Packet Tracer
 
 En esta carpeta se encuentra el archivo de Cisco Packet Tracer
 correspondiente al diseño y configuración de la red del proyecto.
 
-[Descargar archivo de Packet Tracer](./Packet_Tracer/Sistema_IoT.pkt)
+[Descargar archivo de Packet Tracer](./Packet_Tracer/Actividad1.pkt)
 
 ### 🎥 Video
 
